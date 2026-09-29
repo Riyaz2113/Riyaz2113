@@ -277,14 +277,6 @@ I am **Shaik Riyaz**, a **Software Engineer** specializing in Python, AI/ML, and
 ---
 
 
-### 📈 GitHub Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Riyaz2113/Riyaz2113/main/metrics.svg" width="95%" alt="GitHub Metrics"/>
-</p>
-
----
-
 ### 🧩 LeetCode Contribution & Stats
 
 <p align="center">
