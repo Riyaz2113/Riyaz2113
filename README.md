@@ -60,7 +60,7 @@
 I am **Shaik Riyaz**, a **Software Engineer** specializing in Python, AI/ML, and full-stack development, with hands-on experience building ML-powered applications and intelligent systems using React, Flask, FastAPI, MySQL, MongoDB, and modern LLM technologies.
 
 - 📍 Based in: **Tenali, Andhra Pradesh, India**
-- 🎓 Education: **B.Tech in Computer Science & Engineering (AI & ML)** — *Vignan's Lara Institute of Technology and Science* (2023 – 2027) 
+- 🎓 Education: **B.Tech in Computer Science & Engineering (AI & ML)** — *Vignan's Lara Institute of Technology and Science* (2023 – 2027)
 - 💼 Focus: **Full-Stack Engineering, Generative AI & RAG Pipelines, Cloud Architecture**
 - 📧 Email: **[Riyazshaik2113@gmail.com](mailto:Riyazshaik2113@gmail.com)**
 - 📱 Phone: **+91 7013832659**
@@ -71,7 +71,6 @@ I am **Shaik Riyaz**, a **Software Engineer** specializing in Python, AI/ML, and
 - 📸 Instagram: **[instagram.com/riyaz_x23](https://www.instagram.com/riyaz_x23/)**
 
 ### 💡 Core Engineering Principles
-
 - ⚡ **Performance & Scalability**: Designing resilient REST APIs, microservices, and reactive user interfaces.
 - 🤖 **AI-First Innovation**: Engineering retrieval-augmented generation (RAG) pipelines, embedding retrieval, and LLM-powered applications.
 - 🔒 **Production-Ready Code**: Docker containerization, cloud deployment on AWS EC2, and rigorous automated testing.
@@ -106,12 +105,18 @@ I am **Shaik Riyaz**, a **Software Engineer** specializing in Python, AI/ML, and
 
 # 🚀 Featured Projects
 
-### 🤖 [BIS AI Assistant – Intelligent Assistant for Indian Standards &amp; BIS Services](https://github.com/Riyaz2113)
+### 🤖 [BIS AI Assistant – Intelligent Assistant for Indian Standards & BIS Services](https://github.com/Riyaz2113)
 
-> **Enterprise-Grade RAG Pipeline & Intelligent Multilingual Assistant**
+> **Enterprise-Grade RAG Pipeline & Intelligent Multilingual Assistant**  
 > An end-to-end RAG system processing 41,476+ verified BIS document chunks, storing BGE-M3 embeddings in FAISS, with hybrid retrieval using BM25, RRF, and Cross-Encoder reranking for precision answers.
 
 - 🛠️ **Technology Stack**:
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,fastapi" alt="BIS AI Assistant Stack"/>
+  <img src="https://img.shields.io/badge/FAISS-00599C?style=flat&logo=cplusplus&logoColor=white" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/BGE--M3-FF6F00?style=flat&logo=huggingface&logoColor=white" alt="BGE-M3"/>
+  <img src="https://img.shields.io/badge/Gemini_LLM-4285F4?style=flat&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Hybrid_RAG-BM25_+_RRF-00C853?style=flat" alt="RAG"/>
 - 🎯 **Key Features**:
   - Integrated grounded Gemini/OpenAI LLMs with citation validation and evidence-based guardrails (passed 56/56 automated tests).
   - Multilingual support across English, Hindi, Telugu, and Hinglish.
@@ -122,10 +127,14 @@ I am **Shaik Riyaz**, a **Software Engineer** specializing in Python, AI/ML, and
 
 ### 💬 [Multi-Turn Streaming AI Chatbot](https://github.com/Riyaz2113/multi-turn-chatbot)
 
-> **Full-Stack Multi-Turn AI Chatbot with Real-Time Response Streaming**
+> **Full-Stack Multi-Turn AI Chatbot with Real-Time Response Streaming**  
 > A production-deployed full-stack conversational AI application built with React.js and FastAPI, supporting persistent chat sessions, conversation memory, and real-time response streaming.
 
 - 🛠️ **Technology Stack**:
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,fastapi,python,mysql,docker,nginx,aws" alt="Multi-Turn Chatbot Stack"/>
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white" alt="Gemini API"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
 - 🎯 **Key Features**:
   - Developed REST APIs for session & message history management with SQLAlchemy and MySQL.
   - Streamed token responses in real-time from Google Gemini with built-in retry handling for 503/429 status codes.
@@ -134,23 +143,31 @@ I am **Shaik Riyaz**, a **Software Engineer** specializing in Python, AI/ML, and
 
 ---
 
-### 🌱 [OptiCrop – ML Crop Recommendation &amp; Agricultural Optimization System](https://github.com/Riyaz2113/OPTICROP)
+### 🌱 [OptiCrop – ML Crop Recommendation & Agricultural Optimization System](https://github.com/Riyaz2113/OPTICROP)
 
-> **Machine Learning Agricultural Yield & Intelligent Crop Predictor**
+> **Machine Learning Agricultural Yield & Intelligent Crop Predictor**  
 > Accurate crop recommendation engine built with Python, Pandas, and Scikit-learn processing 5,000+ agricultural data records to assist farmers and agro-enterprises.
 
 - 🛠️ **Technology Stack**:
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,flask" alt="OptiCrop Stack"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
 - 🎯 **Purpose**: Analyzes soil nutrients (NPK ratios), climatic factors, and environmental data to recommend optimal crops via lightweight Flask REST endpoints.
 - 🔗 **Repository**: [OptiCrop](https://github.com/Riyaz2113/OPTICROP)
 
 ---
 
-### ✨ [LIA – Intelligent Personal AI Assistant &amp; Agent Framework](https://github.com/Riyaz2113/LIA)
+### ✨ [LIA – Intelligent Personal AI Assistant & Agent Framework](https://github.com/Riyaz2113/LIA)
 
-> **Context-Aware Intelligent Conversational Assistant & Workflow Automation**
+> **Context-Aware Intelligent Conversational Assistant & Workflow Automation**  
 > A versatile, agentic AI assistant engineered with modern LLM orchestration, structured prompt workflows, tool execution, and dynamic user interfaces for intuitive problem solving.
 
 - 🛠️ **Technology Stack**:
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,js" alt="LIA Stack"/>
+  <img src="https://img.shields.io/badge/Gemini_LLM-4285F4?style=flat&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-8E24AA?style=flat" alt="Prompt Engineering"/>
 - 🎯 **Key Features**:
   - Contextual conversation retention and intelligent tool invocation workflows.
   - Interactive, fluid conversational UI delivering snappy responses with asynchronous backend streaming.
@@ -161,18 +178,176 @@ I am **Shaik Riyaz**, a **Software Engineer** specializing in Python, AI/ML, and
 
 ### 💡 Additional Notable Projects
 
-| Project                                                       | Description                                                                           | Primary Stack            |                                           Repository                                           |
-| :------------------------------------------------------------ | :------------------------------------------------------------------------------------ | :----------------------- | :--------------------------------------------------------------------------------------------: |
-| 👁️**REAL-TIME-OBJECT-DETECTION-WITH-VOICE-FEEDBACK-** | Real-time computer vision object detection system with automated voice audio feedback | Python, OpenCV           | [View Repository](https://github.com/Riyaz2113/REAL-TIME-OBJECT-DETECTION-WITH-VOICE-FEEDBACK-) |
-| 🗓️**smart-planner-ai**                                | Intelligent schedule and task management planner with AI capabilities                 | TypeScript, React        |                [View Repository](https://github.com/Riyaz2113/smart-planner-ai)                |
-| 📈**gold**                                              | Machine learning and exploratory data analysis for financial asset forecasting        | Python, Jupyter Notebook |                      [View Repository](https://github.com/Riyaz2113/gold)                      |
-| 🧩**LEET-CODE**                                         | Curated data structures and algorithmic problem solutions in Python                   | Python                   |                    [View Repository](https://github.com/Riyaz2113/LEET-CODE)                    |
-| 🏦**forage-midas**                                      | Advanced software engineering exercises for JPMorgan Chase & Co. virtual experience   | Python, TypeScript       |                  [View Repository](https://github.com/Riyaz2113/forage-midas)                  |
-| 🎨**bootstrap**                                         | Responsive UI designs, modern web components, and styling implementations             | HTML, CSS, Bootstrap     |                    [View Repository](https://github.com/Riyaz2113/bootstrap)                    |
-| 🌐**html-sample**                                       | Static web development prototypes, layout experiments, and responsive interfaces      | HTML, CSS, JavaScript    |                   [View Repository](https://github.com/Riyaz2113/html-sample)                   |
+| Project | Description | Primary Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| 👁️ **REAL-TIME-OBJECT-DETECTION-WITH-VOICE-FEEDBACK-** | Real-time computer vision object detection system with automated voice audio feedback | Python, OpenCV | [View Repository](https://github.com/Riyaz2113/REAL-TIME-OBJECT-DETECTION-WITH-VOICE-FEEDBACK-) |
+| 🗓️ **smart-planner-ai** | Intelligent schedule and task management planner with AI capabilities | TypeScript, React | [View Repository](https://github.com/Riyaz2113/smart-planner-ai) |
+| 📈 **gold** | Machine learning and exploratory data analysis for financial asset forecasting | Python, Jupyter Notebook | [View Repository](https://github.com/Riyaz2113/gold) |
+| 🧩 **LEET-CODE** | Curated data structures and algorithmic problem solutions in Python | Python | [View Repository](https://github.com/Riyaz2113/LEET-CODE) |
+| 🏦 **forage-midas** | Advanced software engineering exercises for JPMorgan Chase & Co. virtual experience | Python, TypeScript | [View Repository](https://github.com/Riyaz2113/forage-midas) |
+| 🎨 **bootstrap** | Responsive UI designs, modern web components, and styling implementations | HTML, CSS, Bootstrap | [View Repository](https://github.com/Riyaz2113/bootstrap) |
+| 🌐 **html-sample** | Static web development prototypes, layout experiments, and responsive interfaces | HTML, CSS, JavaScript | [View Repository](https://github.com/Riyaz2113/html-sample) |
 
 ---
 
 # 🛠️ Languages and Tools
 
 <div align="center">
+
+### 💻 Core Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css" alt="Languages"/>
+</p>
+
+### 🎨 Frontend & Web
+<p>
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css" alt="Frontend Stack"/>
+</p>
+
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" alt="Backend Stack"/>
+</p>
+
+### 🗄️ Databases & Storage
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" alt="Databases Stack"/>
+</p>
+
+### 🤖 AI, Machine Learning & RAG
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="AI & ML Frameworks"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
+  <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/RAG-Hybrid%20Retrieval-4CAF50?style=for-the-badge" alt="RAG"/>
+</p>
+
+### ☁️ Cloud, Containers & Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,vscode" alt="Cloud & Tools Stack"/>
+</p>
+
+</div>
+
+---
+
+# 📜 Certifications & Leadership
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏆 Certifications</h3>
+      <ul>
+        <li>🎓 <b>Cisco</b>: Introduction to Modern AI</li>
+        <li>🐍 <b>Infosys Springboard</b>: Python Programming Fundamentals</li>
+        <li>📜 <b>Infosys Springboard</b>: Python Basics</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌟 Leadership & Co-Curricular</h3>
+      <ul>
+        <li>🎭 <b>Fashion & Spotlight Lead — Vignan Mahotsav (2026)</b>: Led two segments of a National-Level Youth Festival, coordinating participants, logistics, and stage execution.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+### 🔥 GitHub Streak & Contributions
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Riyaz2113&theme=dark&background=0F0F0F&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=ffffff&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=888888&border=0F0F0F" alt="GitHub Streak Stats"/>
+</p>
+
+---
+
+### 🐍 Contribution Grid Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Riyaz2113/Riyaz2113/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake Animation"/>
+</p>
+
+---
+
+### 📅 Isometric Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Riyaz2113/Riyaz2113/main/isocalendar.svg" width="95%" alt="Isometric Contribution Calendar"/>
+</p>
+
+---
+
+### 📈 GitHub Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Riyaz2113/Riyaz2113/main/metrics.svg" width="95%" alt="GitHub Metrics"/>
+</p>
+
+---
+
+### 🧩 LeetCode Contribution & Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/riyaz23/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/riyaz23?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Contribution Heatmap"/>
+  </a>
+</p>
+
+---
+
+# 💼 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/riyaz23/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  </a>
+  <a href="https://github.com/Riyaz2113" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+  <a href="https://www.linkedin.com/in/skriyaz23" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/skriyaz23" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:Riyazshaik2113@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://leetcode.com/u/riyaz23/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/Riyaz2113" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/Riyaz754390" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
+  </a>
+  <a href="https://www.instagram.com/riyaz_x23/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i><br>
+  <b>— John Johnson</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:D4AF37,100:0F0F0F&section=footer" alt="Footer Banner"/>
+</p>
