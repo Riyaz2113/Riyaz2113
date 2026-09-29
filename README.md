@@ -276,13 +276,6 @@ I am **Shaik Riyaz**, a **Software Engineer** specializing in Python, AI/ML, and
 
 ---
 
-### 📅 Isometric Contribution Calendar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Riyaz2113/Riyaz2113/main/isocalendar.svg" width="95%" alt="Isometric Contribution Calendar"/>
-</p>
-
----
 
 ### 📈 GitHub Metrics
 
